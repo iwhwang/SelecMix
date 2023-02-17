@@ -5,6 +5,7 @@ This repository includes the official PyTorch implementation of our paper:
 > SelecMix: Debiased Learning by Contradicting-pair Sampling
 > 
 > *Inwoo Hwang, Sangjun Lee, Yunhyeok Kwak, Seong Joon Oh, Damien Teney, Jin-Hwa Kim^, Byoung-Tak Zhang^*
+> *(^: corresponding authors)*
 > 
 > Advances in Neural Information Processing Systems 35 (NeurIPS 2022)
 > 
