@@ -24,7 +24,7 @@ If you find our work useful for your research, please consider citing this.
 hwang2022selecmix,
 title={SelecMix: Debiased Learning by Contradicting-pair Sampling},
 author={Inwoo Hwang and Sangjun Lee and Yunhyeok Kwak and Seong Joon Oh and Damien Teney and Jin-Hwa Kim and Byoung-Tak Zhang},
-booktitle={Advances in Neural Information Processing Systems},
+booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
 year={2022},
 }
 ```
