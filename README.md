@@ -1,5 +1,7 @@
 # SelecMix: Debiased Learning by Contradicting-pair Sampling
 
+![Figure](./selecmix.jpeg)
+
 This repository includes the official PyTorch implementation of our paper:
 
 > [**SelecMix: Debiased Learning by Contradicting-pair Sampling**](https://arxiv.org/abs/2211.02291) <br>
